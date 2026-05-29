@@ -1,4 +1,4 @@
-# 📊 Automação e Dashboard de Vendas (2024/2025)
+# 📊 Dashboard Vendas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,4 +44,4 @@ Ao rodar o script, além dos arquivos Excel tratados, gráficos analíticos são
 
 1. Clone este repositório:
 ```bash
-   git clone [https://github.com/SEU-USUARIO/automacao-dashboard-vendas.git](https://github.com/SEU-USUARIO/automacao-dashboard-vendas.git)
+   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
